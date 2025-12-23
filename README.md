@@ -50,5 +50,6 @@ Some screenshots of the game:
 <br/>
 
 Link to video with demo gameplay: https://drive.google.com/file/d/1AIlC7KmqpujlaP8RaCoAy1KxTQ6xoRtg/view?usp=sharing
+
 Link for downloading the .exe file (ForgottenCase.exe): https://drive.google.com/file/d/1HYZCc7zh_hzoTvHTn3ktTWaOW-_IFtCQ/view?usp=drive_link
 
